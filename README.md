@@ -1,2 +1,2 @@
-# LeetcodeJuneChallenge
-June Leetcode Challenge #leetcode #junechallenge #interviewquestions
+# Leetcode June Challenge
+#### June Leetcode Challenge #leetcode #junechallenge #interviewquestions
