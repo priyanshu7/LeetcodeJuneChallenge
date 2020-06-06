@@ -9,3 +9,4 @@ Day 2 : Delete Node in a Linked List --> Linked List --> Easy --> https://bit.ly
 Day 3 : Two City Scheduling --> Greedy Algorithm --> Medium --> https://bit.ly/2XZmTaX <br/>
 Day 4 : Reverse String --> Two Pointer --> Easy --> https://bit.ly/3dBSHcs <br/>
 Day 5 : Random Pick with Weight --> Arrays & Binary Search --> Medium --> https://bit.ly/3eMmqj0 <br/>
+Day 6 : Queue Reconstruction by Height --> Greedy & Arrays --> Medium --> https://bit.ly/30ejffT <br/>
