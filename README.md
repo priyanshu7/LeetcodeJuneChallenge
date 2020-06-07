@@ -10,3 +10,4 @@ Day 3 : Two City Scheduling --> Greedy Algorithm --> Medium --> https://bit.ly/2
 Day 4 : Reverse String --> Two Pointer --> Easy --> https://bit.ly/3dBSHcs <br/>
 Day 5 : Random Pick with Weight --> Arrays & Binary Search --> Medium --> https://bit.ly/3eMmqj0 <br/>
 Day 6 : Queue Reconstruction by Height --> Greedy & Arrays --> Medium --> https://bit.ly/30ejffT <br/>
+Day 7 : Coin Change 2 --> DP --> Medium --> https://bit.ly/2Y8p7VB <br/>
