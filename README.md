@@ -13,3 +13,4 @@ Day 6 : Queue Reconstruction by Height --> Greedy & Arrays --> Medium --> https:
 Day 7 : Coin Change 2 --> DP --> Medium --> https://bit.ly/2Y8p7VB <br/>
 Day 8 : Power of Two --> Bit Count --> Easy --> https://bit.ly/3cJuFLo <br/>
 Day 9 : Is Subsequence --> Two Pointer --> Medium --> https://bit.ly/2XNhaGh <br/> 
+Day 10: Search Insert Position --> Binary Search --> Easy --> https://bit.ly/2Uv0Zeu <br/>
