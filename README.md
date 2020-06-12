@@ -15,3 +15,4 @@ Day 8 : Power of Two --> Bit Count --> Easy --> https://bit.ly/3cJuFLo <br/>
 Day 9 : Is Subsequence --> Two Pointer --> Medium --> https://bit.ly/2XNhaGh <br/> 
 Day 10: Search Insert Position --> Binary Search --> Easy --> https://bit.ly/2Uv0Zeu <br/>
 Day 11: Sort Colors --> 3 Pointer (Arrays) --> Medium --> https://bit.ly/2XPwZfu <br/>
+Day 12: Insert Delete GetRandom O(1) --> Hashmap & ArrayList --> Medium --> https://bit.ly/2XSi5p0 <br/>
