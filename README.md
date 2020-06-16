@@ -19,3 +19,4 @@ Day 12: Insert Delete GetRandom O(1) --> Hashmap & ArrayList --> Medium --> http
 Day 13: Largest Divisible Subset --> DP --> Medium --> https://bit.ly/3hzomxI <br/>
 Day 14: Cheapest Flight Within K Stops --> Graph & Dijkstra --> Medium --> https://bit.ly/30D0SBL <br/>
 Day 15: Search in a Binary Search Tree --> BST Property & Recursion --> Easy --> https://bit.ly/2YAK7o3 <br/>
+Day 16: Validate IP Address --> Strings & Divide'n'Conquer (Regex) --> Medium --> https://bit.ly/2UNVOXc <br/>
