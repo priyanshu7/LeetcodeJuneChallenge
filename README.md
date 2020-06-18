@@ -21,3 +21,4 @@ Day 14: Cheapest Flight Within K Stops --> Graph & Dijkstra --> Medium --> https
 Day 15: Search in a Binary Search Tree --> BST Property & Recursion --> Easy --> https://bit.ly/2YAK7o3 <br/>
 Day 16: Validate IP Address --> Strings & Divide'n'Conquer (Regex) --> Medium --> https://bit.ly/2UNVOXc <br/>
 Day 17: Surrounded Regions --> DFS --> Medium --> https://bit.ly/3dchWkH <br/>
+Day 18: H-Index II --> Binary Search --> Medium --> https://bit.ly/3egbUk7<br/>
