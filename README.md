@@ -22,3 +22,4 @@ Day 15: Search in a Binary Search Tree --> BST Property & Recursion --> Easy -->
 Day 16: Validate IP Address --> Strings & Divide'n'Conquer (Regex) --> Medium --> https://bit.ly/2UNVOXc <br/>
 Day 17: Surrounded Regions --> DFS --> Medium --> https://bit.ly/3dchWkH <br/>
 Day 18: H-Index II --> Binary Search --> Medium --> https://bit.ly/3egbUk7<br/>
+Day 19: Longest Duplicate Substring --> Strings + Binary Search --> Hard --> https://bit.ly/3fLJsqZ <br/>
