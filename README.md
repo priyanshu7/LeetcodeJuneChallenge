@@ -23,4 +23,4 @@ Day 16: Validate IP Address --> Strings & Divide'n'Conquer (Regex) --> Medium --
 Day 17: Surrounded Regions --> DFS --> Medium --> https://bit.ly/3dchWkH <br/>
 Day 18: H-Index II --> Binary Search --> Medium --> https://bit.ly/3egbUk7<br/>
 Day 19: Longest Duplicate Substring --> Strings + Binary Search --> Hard --> https://bit.ly/3fLJsqZ <br/>
-Day 20: Permutation Sequence --> Math --> Medium --> <br/>
+Day 20: Permutation Sequence --> Math --> Medium --> https://bit.ly/2YZUJx8<br/>
