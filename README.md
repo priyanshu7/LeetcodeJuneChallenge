@@ -26,3 +26,4 @@ Day 19: Longest Duplicate Substring --> Strings + Binary Search --> Hard --> htt
 Day 20: Permutation Sequence --> Math --> Medium --> https://bit.ly/2YZUJx8<br/>
 Day 21: Dungeon Game --> Dynamic Programming --> Hard --> https://bit.ly/3fKOFiw <br/>
 Day 22: Single Number 2 --> Bit Manipulation --> Medium --> https://bit.ly/3hPGFib <br/>
+Day 23: Count Complete Tree Nodes --> Trees --> Medium --> https://bit.ly/2B0Zaj8 <br/>
