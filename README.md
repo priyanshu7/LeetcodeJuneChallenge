@@ -28,3 +28,4 @@ Day 21: Dungeon Game --> Dynamic Programming --> Hard --> https://bit.ly/3fKOFiw
 Day 22: Single Number 2 --> Bit Manipulation --> Medium --> https://bit.ly/3hPGFib <br/>
 Day 23: Count Complete Tree Nodes --> Trees --> Medium --> https://bit.ly/2B0Zaj8 <br/>
 Day 24: Unique Binary Search Tree --> Dynamic Programming (Catalan Numbers) --> Medium --> https://bit.ly/31dwNJc <br/>
+Day 25: Find the Duplicate Number --> Floyd's Tortoise & Hare Algorith --> Medium --> https://bit.ly/31ixAIO <br/>
