@@ -29,3 +29,4 @@ Day 22: Single Number 2 --> Bit Manipulation --> Medium --> https://bit.ly/3hPGF
 Day 23: Count Complete Tree Nodes --> Trees --> Medium --> https://bit.ly/2B0Zaj8 <br/>
 Day 24: Unique Binary Search Tree --> Dynamic Programming (Catalan Numbers) --> Medium --> https://bit.ly/31dwNJc <br/>
 Day 25: Find the Duplicate Number --> Floyd's Tortoise & Hare Algorith --> Medium --> https://bit.ly/31ixAIO <br/>
+Day 26: Sum Root to Leaf Numbers --> Trees --> Medium --> https://bit.ly/31pli1z <br/>
