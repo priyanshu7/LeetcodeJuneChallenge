@@ -32,3 +32,4 @@ Day 25: Find the Duplicate Number --> Floyd's Tortoise & Hare Algorith --> Mediu
 Day 26: Sum Root to Leaf Numbers --> Trees --> Medium --> https://bit.ly/31pli1z <br/>
 Day 27: Perfect Squares --> Dynamic Programming --> Medium --> https://bit.ly/3dFx3Dt <br/>
 Day 28: Reconstruct Itinerary --> Graphs --> Medium --> https://bit.ly/3iavXmv <br/>
+Day 29: Unique Paths --> Dynamic Programming --> Medium --> https://bit.ly/3eKlFY9 <br/>
